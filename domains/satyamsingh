@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "Venkat-saran",
+    "email": "venkatsaran1206@gmail.com"
+  },
+  "description": {
+    "This Sub-Domain is for Personal, Learning and Experimental uses."
+  },
+  "records": {
+    "A": "140.245.254.110"
+  },
+}
